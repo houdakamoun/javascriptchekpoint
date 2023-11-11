@@ -1,0 +1,28 @@
+div {
+  border-style: dashed;
+  border-color: black;
+  display: flex;
+  justify-content: space-around;
+  width: 900px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  list-style-type: none;
+}
+#total {
+  height: 50px;
+  width: 200px;
+  position: fixed;
+  right: 20px;
+  top: 20px;
+}
+.completed {
+  color: blue;
+}
